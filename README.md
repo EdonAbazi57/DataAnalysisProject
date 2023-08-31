@@ -8,7 +8,7 @@ Questions to be explored
   
 2. Most frequent crimes by neighbourhood
 
- 3.Number of reported crimes committed annualy in Montreal
+  3.Number of reported crimes committed annualy in Montreal
 
 4. What are the general trends in the reported crimes from 2015-2021?
 
